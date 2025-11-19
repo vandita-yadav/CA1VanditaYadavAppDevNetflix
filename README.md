@@ -5,11 +5,6 @@ This project demonstrates basic UI layouting, resource handling, drawable usage,
 
 ---
 
-## ⭐ App Preview
-
-<img src="output.png" width="320">
-
----
 
 ## 🎯 Features
 
